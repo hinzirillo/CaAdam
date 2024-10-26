@@ -1,0 +1,7 @@
+from caadam.scaling_strategy_base import ScalingStrategy
+from caadam.multiplicative_scaling import MultiplicativeMinMaxMedianConnectionScaling
+from caadam.additive_scaling import AdditiveMinMaxMedianConnectionScaling
+from caadam.depth_scaling import DepthConnectionScaling
+from caadam.caadam import ConnectionAwareAdam
+
+CaAdam = ConnectionAwareAdam
