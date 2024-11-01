@@ -1,7 +1,5 @@
 # CaAdam: Connection Aware Adam Optimizer
 
-# CaAdam: Connection-Aware Adam Optimizer
-
 [![PyPI version](https://img.shields.io/pypi/v/caadam.svg)](https://pypi.org/project/caadam/)
 
 CaAdam is a novel optimization approach that enhances the Adam optimizer by incorporating neural network architectural awareness through connection-based scaling strategies. It consistently achieves faster convergence and better minima compared to standard Adam across various architectures and tasks.
